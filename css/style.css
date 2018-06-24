@@ -78,7 +78,7 @@ header [class*="menu-"] {
   cursor: pointer;
   font-size: 22px;
   height: initial;
-  padding: 5px;
+  padding: 0px;
   width: initial;
 }
 header h1 {
@@ -90,8 +90,8 @@ header h1 {
 }
 .intro {
   display: block;
-  margin: 57px auto 0px;
-  padding: 22.2%;
+  margin: 47px auto 0px;
+  padding: 22.5%;
   background-color: #6E6E6E;
   left: 205px;
   width: 100%;
