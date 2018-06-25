@@ -116,7 +116,7 @@ header h1 {
   margin-left: auto;
   top: 10px;
   width: 1000px;
-  height: 35px;
+  height: 45px;
 }
 
 #escenario{
@@ -128,9 +128,9 @@ header h1 {
     top: 36.2742px;
     border: solid 1px rgba(255,255,255,0);
     width: 1000px;
-    height: 550px; 
+    height: 554px; 
     position: relative;
-    top: 20px;
+    top: 10px;
 
   }
 
